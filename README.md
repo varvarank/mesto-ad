@@ -13,8 +13,8 @@
 
 ## Инструкция по запуску
 1. Склонируйте репозиторий:
-   ```bash
-   git clone [https://github.com/varvarank/mesto-ad.git](https://github.com/varvarank/mesto-ad.git)
+```bash
+git clone [https://github.com/varvarank/mesto-ad.git](https://github.com/varvarank/mesto-ad.git)
 ```
 2. Установите зависимости:
 ```bash
