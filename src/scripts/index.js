@@ -34,7 +34,7 @@ const validationSettings = {
 
 enableValidation(validationSettings);
 
-// DOM узлы
+// DOM узлы!
 const placesWrap = document.querySelector(".places__list");
 const profileFormModalWindow = document.querySelector(".popup_type_edit");
 const profileForm = profileFormModalWindow.querySelector(".popup__form");
@@ -86,7 +86,6 @@ const handleLikeIcon = (cardId, likeButton, likeCounter) => {
 const handleDeleteCard = (cardId, cardElement) => {
   cardIdToDelete = cardId;
   cardToDelete = cardElement;
-  
   openModalWindow(deleteCardModalWindow);
 };
 
